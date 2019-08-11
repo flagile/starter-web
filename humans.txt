@@ -3,7 +3,7 @@
 
 # TEAM
 
-    mengmeng -- <role> -- <twitter>
+    mengmeng -- software engineer -- <twitter>
 
 # THANKS
 
